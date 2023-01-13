@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "accountTransactionExists",
+        "transactionLabel": "A test accountTransactionExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createAccountTransaction",
+        "transactionLabel": "A test createAccountTransaction transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readAccountTransaction",
+        "transactionLabel": "A test readAccountTransaction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateAccountTransaction",
+        "transactionLabel": "A test updateAccountTransaction transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteAccountTransaction",
+        "transactionLabel": "A test deleteAccountTransaction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
