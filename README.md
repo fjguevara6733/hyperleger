@@ -1,0 +1,3 @@
+In the file "functional model.pdf", it is shown how the public bitcoin and Ethereum blockchains interact with the private Hyperleger Fabric blockchain through an API Core that manages wallets and funds in the bitcoin and Ethereum node, transforming these cryptocurrencies into digital assets in the private blockchain made up of 3 banks and regulatory entities in the field of crypto assets and Fiat.
+
+The AccountTransaction.cds chaincode creates the C-btc, C-eth and C-usdt tokens in the private network anchored in the assets held in custody in the public networks, also allows the transfer between bank clients
